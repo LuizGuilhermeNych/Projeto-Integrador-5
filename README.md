@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/LuizGuilhermeNych/Projeto-Integrador-5" rel="noopener">
-        <img width=200px height=200px src="https://imgur.com/nYXMQKt.jpg" alt="Home Monitoring">
+        <img width=200px height=200px src="https://imgur.com/ulKgJvu.jpg" alt="Home Monitoring">
     </a>
 </p>
 
